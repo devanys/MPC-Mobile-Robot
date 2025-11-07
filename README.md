@@ -4,6 +4,10 @@
 ![Screenshot 2024-06-06 055753](https://github.com/devanys/MPC-Mobile-Robot/assets/145944367/8afd10e4-9ff9-42ef-aa45-3f25b9f7f9c7)
 
 
+https://github.com/user-attachments/assets/4d9d5e96-6b7f-46c4-a4c8-ba7a913346b8
+
+
+
 The provided code is a Python script that creates a graphical user interface (GUI) using `tkinter` for simulating a robot's movement based on Model Predictive Control (MPC). The robot follows a series of user-defined waypoints. The GUI allows users to input parameters and waypoints, then visualize the robot's path using Matplotlib.
 
 ## Global Variables
